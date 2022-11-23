@@ -1,5 +1,5 @@
 # WebpackTemplate
-====
+_____
 Webpack config for every single project.
 ______
 
@@ -16,7 +16,7 @@ Merge Project-b into Project-a
 6. git remote remove repoB
 7. npm install
 
-###Merge into subdirectory?
+### Merge into subdirectory?
  1. CD path/to/repoB
  2. git filter-repo --to-subdirectory-filter repoB
  3. git remote remove repoB
