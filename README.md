@@ -25,7 +25,7 @@ Merge Project-b into Project-a
  _____
  ## Errors?
  
-### Error: Merge conflict in README.md?
+### Merge conflict in README.md?
 
 1. git add <file> e.g. git add README.md
 2. git commit -m ""
