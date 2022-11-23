@@ -1,5 +1,6 @@
 # WebpackTemplate
-_____
+
+
 Webpack config for every single project.
 ______
 
